@@ -1,1 +1,1 @@
-# Calculator_NCH
+# Calculator_Nguyen Cong Huy
